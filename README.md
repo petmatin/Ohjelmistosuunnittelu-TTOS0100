@@ -14,6 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales libero era
 #### Alaotsikko 3
 
  | Rodut | häntä |
- |:------|--------:|
+ |--------|--------:|
  |Persialainen|pitkä|
- |Ragdoll |pitkä|
+ |Ragdoll|pitkä|
