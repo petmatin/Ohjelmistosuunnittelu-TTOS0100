@@ -13,7 +13,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales libero era
 
 #### Alaotsikko 3
 
- | Rodut | häntä |
- |--------|--------:|
- |Persialainen|pitkä|
- |Ragdoll|pitkä|
+| Jotakin       | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
