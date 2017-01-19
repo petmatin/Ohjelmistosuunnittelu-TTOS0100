@@ -13,8 +13,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales libero era
 
 #### Alaotsikko 3
 
-| Jotakin       | Are           | Cool  |
+| Jotakin| Kissat| Jotakin |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Näin      | on | kiva |
